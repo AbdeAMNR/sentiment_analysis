@@ -21,3 +21,6 @@ pip install SpeechRecognition
 pip install pyttsx3
 pip install tkinter
 ```
+
+# Test execution
+Ouvrez l'image animée "Demo (Animated image).gif" pour voir toutes les fonctionnalités du programme
