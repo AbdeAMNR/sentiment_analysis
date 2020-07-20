@@ -1,8 +1,11 @@
-# Pour pouvoir exécuter ce programme sans erreur, veuillez suivre les étapes ci-dessous:
-
-## Installation Dependencies#
+## Pour pouvoir exécuter ce programme sans erreur, veuillez suivre les étapes ci-dessous:
 
 # install Python 64 bit version
+
+https://www.python.org/downloads/windows/
+
+# Installation Dependencies
+Sous Windows, lancez l'invite de commande avec les droits d'administrateur et exécutez les commandes ci-dessous:
 
 ```bash
 python -m pip install --upgrade pip
